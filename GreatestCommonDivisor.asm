@@ -1,3 +1,11 @@
+;--------------------
+; Nome: Heitor Souza
+; 
+; Descrição: Implementa o cálculo do MDC (máximo divisor comum) entre os números  x e y. 
+; O programa também testa chamanda a função 3 vezes, 
+; com valores diferentes para x e y. Os resultados são exibidos na tela
+;--------------------
+
 Include Irvine32.inc
  
 .data
