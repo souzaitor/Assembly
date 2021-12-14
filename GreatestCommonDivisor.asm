@@ -1,6 +1,7 @@
 ;--------------------
-; Nome: Heitor Souza
-; 
+; Autor: Heitor Souza
+; Data: 06/07/2021
+;
 ; Descrição: Implementa o cálculo do MDC (máximo divisor comum) entre os números  x e y. 
 ; O programa também testa chamanda a função 3 vezes, 
 ; com valores diferentes para x e y. Os resultados são exibidos na tela
