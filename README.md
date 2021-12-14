@@ -9,3 +9,9 @@ Todo os códigos foram escritos e testados usando Visual Studio 2019 e MASM32. E
 Os arquivos e atividades são baseados no material do livro:
 
 Kip R. Irvine. **Assembly Language for x86 Processors**. 6. ed. Florida International University, 2011.
+
+## Créditos
+Autor: Heitor Souza
+
+## Copyright 
+This project is licensed under the terms of the MIT license.
